@@ -1,0 +1,16 @@
+
+  tiny_usart
+ 
+ 
+ 
+  	- ATtiny2313 serial port library
+ 
+ 
+ 	- sets the serial communication to 9600 Baud rate and 
+ 	  8N1 (8data, No parity, 1stop bit)
+ 
+ 
+ 
+   	- developed (and tested) for a ATtiny2313 running 
+ 	  at 8 MHz from its internal oscillator
+ 
